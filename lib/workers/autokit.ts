@@ -1,4 +1,4 @@
-import { Autokit } from '@balena/autokit';
+import { Autokit } from '@dynamicdevices/autokit';
 import { EventEmitter } from 'events';
 import * as Stream from 'stream';
 import { manageHandlers } from '../helpers';
